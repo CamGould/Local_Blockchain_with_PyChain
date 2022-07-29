@@ -1,4 +1,4 @@
 # Local_Blockchain_with_PyChain
 
+![](https://raw.githubusercontent.com/CamGould/Local_Blockchain_with_PyChain/main/Supplemental/ezgif.com-gif-maker-3.gif)
 
-<img align="center" width="1000" height="500" src="https://github.com/CamGould/Local_Blockchain_with_PyChain/blob/main/Supplemental/ezgif.com-gif-maker.gif?raw=true">
